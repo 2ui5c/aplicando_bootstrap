@@ -34,11 +34,11 @@
     padding: 2rem;
 }
 
-.mainGallery {
+.galeria_contenedor{
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
-    background-color:gainsboro
+    gap: 0.5rem;
 }
 
 .footer {
